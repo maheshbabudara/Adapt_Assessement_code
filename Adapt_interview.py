@@ -35,8 +35,6 @@ heading_names=[]
 
 for name in column_names:
     heading_names.append(name.text)
-print(heading_names)
-
 # for nam in heading_names:
 if drug_input[1]=="tigecycline":
     count=1
